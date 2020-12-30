@@ -20,3 +20,18 @@ D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoIn
 D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
 D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
 D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+D:\SoftUni\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\SoftUni\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\appsettings.json
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\SoftUni\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\SoftUni\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+D:\SoftUni\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\SoftUni\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\SoftUni\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\SoftUni\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.genruntimeconfig.cache

@@ -4,23 +4,34 @@
     <projectFile>Phonebook/Phonebook.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6d54152-43f0-45fb-99d8-083df72d766e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/.name" beforeDir="false" />
+    <list default="true" id="d6d54152-43f0-45fb-99d8-083df72d766e" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/Phonebook/Controllers/ContactController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phonebook/Data/DataAccess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phonebook/Data/Models/Contact.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/bundleconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/Views/Shared/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/Views/Shared/Error.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/bin/Debug/netcoreapp2.0/Phonebook.runtimeconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Phonebook/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Phonebook/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phonebook/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +40,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Phonebook/Data/Models/Contact.cs" />
+      <option value="$PROJECT_DIR$/Phonebook/Data/DataAccess.cs" />
+      <option value="$PROJECT_DIR$/Phonebook/Controllers/ContactController.cs" />
+      <option value="$PROJECT_DIR$/Phonebook/Controllers/HomeController.cs" />
+      <option value="$PROJECT_DIR$/Phonebook/Views/Shared/Error.cshtml" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1lqMxyz4lLmmiMfWczZSZhaJyk7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -43,6 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.ASP.NET" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Phonebook">
@@ -87,8 +108,16 @@
       <updated>1608320419415</updated>
       <workItem from="1608320428823" duration="330000" />
       <workItem from="1609323132638" duration="247000" />
-      <workItem from="1609324168227" duration="609000" />
+      <workItem from="1609324168227" duration="2903000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1609325116062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609325116062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +139,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
