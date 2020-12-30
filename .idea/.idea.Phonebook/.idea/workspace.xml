@@ -4,19 +4,44 @@
     <projectFile>Phonebook/Phonebook.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6d54152-43f0-45fb-99d8-083df72d766e" name="Default Changelist" comment="" />
+    <list default="true" id="d6d54152-43f0-45fb-99d8-083df72d766e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Phonebook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Debug/netcoreapp2.0/Phonebook.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/Phonebook.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lqMxyz4lLmmiMfWczZSZhaJyk7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608320419415</updated>
       <workItem from="1608320428823" duration="330000" />
+      <workItem from="1609323132638" duration="247000" />
+      <workItem from="1609324168227" duration="609000" />
     </task>
     <servers />
   </component>
@@ -69,7 +96,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

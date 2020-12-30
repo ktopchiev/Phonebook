@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ktopchiev/Downloads/Skeleton/Phonebook/Phonebook.csproj": {}
+    "D:\\SoftUni\\Phonebook\\Phonebook\\Phonebook.csproj": {}
   },
   "projects": {
-    "/home/ktopchiev/Downloads/Skeleton/Phonebook/Phonebook.csproj": {
+    "D:\\SoftUni\\Phonebook\\Phonebook\\Phonebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ktopchiev/Downloads/Skeleton/Phonebook/Phonebook.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Phonebook\\Phonebook\\Phonebook.csproj",
         "projectName": "Phonebook",
-        "projectPath": "/home/ktopchiev/Downloads/Skeleton/Phonebook/Phonebook.csproj",
-        "packagesPath": "/home/ktopchiev/.nuget/packages/",
-        "outputPath": "/home/ktopchiev/Downloads/Skeleton/Phonebook/obj/",
+        "projectPath": "D:\\SoftUni\\Phonebook\\Phonebook\\Phonebook.csproj",
+        "packagesPath": "C:\\Users\\karlo\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\Phonebook\\Phonebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ktopchiev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\karlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
             "projectReferences": {}
           }
         },
@@ -35,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "dependencies": {
             "Microsoft.AspNetCore.All": {
               "target": "Package",
@@ -65,7 +67,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\karlo\\.dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
